@@ -1,0 +1,12 @@
+- insert:
+    - id: greeter-provider
+      name: 'E:/code/agent/deepseek-harness/scratch-plugin/src/greeter.ts'
+
+    - id: greeter-consumer
+      name: 'E:/code/agent/deepseek-harness/scratch-plugin/src/consumer.ts'
+
+    - id: tool-logger
+      name: 'E:/code/agent/deepseek-harness/scratch-plugin/src/tool-logger.ts'
+
+    - id: greet-tool
+      name: 'E:/code/agent/deepseek-harness/scratch-plugin/src/greet-tool.ts'
